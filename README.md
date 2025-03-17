@@ -70,7 +70,7 @@ GET /contests/codechef
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/contests-backend.git
+   git clone https://github.com/Mihir2423/contests-backend.git
    cd coding-contests-api
    ```
 2. Install dependencies:
