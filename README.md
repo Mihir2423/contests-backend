@@ -70,7 +70,7 @@ GET /contests/codechef
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/coding-contests-api.git
+   git clone https://github.com/your-repo/contests-backend.git
    cd coding-contests-api
    ```
 2. Install dependencies:
@@ -81,7 +81,7 @@ GET /contests/codechef
    ```sh
    node index.js
    ```
-4. The API will run on `http://localhost:3000` by default.
+4. The API will run on `http://localhost:4000` by default.
 
 ## Dependencies
 - `express` - Web framework
